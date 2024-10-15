@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shriyase
 - 👀 I’m interested in Machine Learning, Gen AI, and all things data science!
-- 🌱 I’m currently in grad school for my Data Science Master's program
+- 🌱 I’m currently in grad school for my Data Science Master's program at the University of Michigan!
 - 💞️ I’m looking for full-time opportunities in 2025 as a Data Scientist
 - 📫 You can reach me at: shriyase@umich.edu
 
